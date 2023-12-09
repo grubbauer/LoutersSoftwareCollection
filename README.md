@@ -1,12 +1,10 @@
-[WIP]
+LoutersDraw V1.0
+================
 
-This collection of software are simple to use tools.
-They are easy to modify and are easy to use. (If you know the mouse-key-binds)
-The collection should include:
-LoutersDraw
-LoutersView
-LoutersWatch
-LoutersNote
-LoutersAudition
+LoutersNote is a extremely lightweight python-based text editor.
+Its easily modifyable. But because of some limitations of tkinter
+you can not not open files that use non-UTF16/UTF8 characters.
+I would greately appriciate if you would build opon this project.
 
-There may be only a few programms, because it's a "Work in Progress".
+
+
