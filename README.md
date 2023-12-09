@@ -1,4 +1,6 @@
-[WIP]
+Louters Software Collection
+===========================
+A collection of open-source easy-to-modify tools.
 
 This collection of software are simple to use tools.
 They are easy to modify and are easy to use. (If you know the mouse-key-binds)
