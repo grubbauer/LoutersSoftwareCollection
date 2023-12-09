@@ -5,7 +5,7 @@ pygame.init()
 
 width, height = 800, 600
 screen = pygame.display.set_mode((width, height))
-pygame.display.set_caption("Image Editor")
+pygame.display.set_caption("LoutersDraw V1.1")
 
 white = (255, 255, 255)
 black = (0, 0, 0)
