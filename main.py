@@ -5,7 +5,7 @@ from tkinter import font
 class Notepad:
     def __init__(self, root):
         self.root = root
-        self.root.title("Notepad")
+        self.root.title("LoutersNote 1.0")
         custom_font = font.Font(family="Arial", size=12)
         self.text_area = tk.Text(self.root, wrap="word", undo=True, font=custom_font)
         self.text_area.pack(expand="yes", fill="both")
