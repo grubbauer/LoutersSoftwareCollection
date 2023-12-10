@@ -1,19 +1,7 @@
-Louters Software Collection
-===========================
-A collection of open-source easy-to-modify tools.
-
-This collection of software are simple to use tools.
-They are easy to modify and are easy to use. (If you know the mouse-key-binds)
-The collection should include:
-
-LoutersDraw
-
-LoutersView
-
-LoutersWatch
-
-LoutersNote
-
 LoutersAudition
+===============
 
-There may be only a few programms, because it's a "Work in Progress".
+LoutersAudition is a lightweight audio player.
+It is based on python. It uses the librarys tkinker and pygame.
+Since tkinker is already apart of the python standart library, you don't need to install it.
+But you need to install pygame with "pip install pygame", since it is a non default library.
