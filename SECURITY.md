@@ -8,6 +8,8 @@
 | LoutersDraw V1.0   | :white_check_mark: |
 | LoutersDraw V1.1   | :white_check_mark: |
 | LoutersNote V1.0   | :white_check_mark: |
+| LoutersView V1.0   | :white_check_mark: |
+
 
 ## Reporting a Vulnerability
 
