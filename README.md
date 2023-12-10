@@ -1,4 +1,6 @@
-[WIP]
+LoutersDraw
+===========
+
 
 LoutersDraw is a simple and easy-to-use image modification programm.
 You can draw, and that's it.
