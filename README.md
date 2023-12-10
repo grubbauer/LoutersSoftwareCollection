@@ -1,14 +1,7 @@
-Louters Software Collection
-===========================
-A collection of open-source easy-to-modify tools.
-
-This collection of software are simple to use tools.
-They are easy to modify and are easy to use. (If you know the mouse-key-binds)
-The collection should include:
-LoutersDraw
 LoutersView
-LoutersWatch
-LoutersNote
-LoutersAudition
+===========
 
-There may be only a few programms, because it's a "Work in Progress".
+LoutersView is a lightweight python-based image viewer.
+It uses tkinter and pillow as its core-librarys.
+"tkinker" is already apart of the standart pyton libarys.
+But you need to install pillow with "pip install Pillow".
