@@ -6,7 +6,7 @@ from PIL import Image, ImageTk
 class VideoPlayer:
     def __init__(self, root):
         self.root = root
-        self.root.title("Simple Video Player")
+        self.root.title("LoutersWatch 1.0")
 
         self.video_frame = tk.Frame(self.root)
         self.video_frame.pack(pady=10)
