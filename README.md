@@ -11,9 +11,12 @@ KEYBINDS:
 
 MOUSELEFT:
   draw or erase
+  
 MOUSERIGHT:
   switch between draw and erase
+  
 MOUSESCROLL:
   change brush size
+  
 COLORBUTTONS:
   changecolors
